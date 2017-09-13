@@ -1,4 +1,4 @@
-#NOTE
+# NOTE
 Getting all of this to work may or may not function correctly. The person in our group who hosted the DB most likely is not hosting it anymore.
 This readme is also the readme posted on our original repo. The link is here: https://github.com/rwsmith/SeniorProject/
 
